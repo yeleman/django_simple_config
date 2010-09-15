@@ -1,0 +1,16 @@
+Allows you to store key / values in the database to set and unset config 
+value from the Django admin.
+
+Setup
+=====
+
+    - Copy the django-simple-config dir as django_simple_config in your Python
+      PATH
+    - Add django_simple_config to your INSTALLED_APP
+    - ./manage.py syncdb
+
+Evolutions
+==========
+
+    - Add several types to config
+    - cache config
