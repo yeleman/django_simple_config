@@ -5,5 +5,3 @@
 *.orig
 private
 *.log
-*.log.*
-*.mo
